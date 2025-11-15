@@ -119,8 +119,12 @@ bool isdemo = true;//isdemo=true时连接okx的模拟盘，isdemo=false时连接
 
 `secretKey`=密钥
 
+
 `passphrase`=您创建API时设置的密码
 
+
+
+![](https://secure2.wostatic.cn/static/jAA5B3oa8aVd666orsFdrn/image.png?auth_key=1763207942-fnC7KeSPLjEMfQiRC63ukj-0-17fdf99c3d7cc18e6d738b9b38490444)
 
 
 
@@ -164,7 +168,6 @@ make
 
 ![](https://secure2.wostatic.cn/static/cSRaik1Fce7H49mthzmN2/drawio.png?auth_key=1763207133-2SKmRb67AEEJCNDq9qeJxg-0-63e3d451db6d3417103e62cf7805340c)
 
-![](https://secure2.wostatic.cn/static/cSRaik1Fce7H49mthzmN2/drawio.png?auth_key=1763207514-ufsWVX9fkrMd7943oVKVg4-0-11deca186cf6e3bca405623401ab6aee)
 
 
 
