@@ -109,7 +109,7 @@ bool isdemo = true;//isdemo=true时连接okx的模拟盘，isdemo=false时连接
 
 —在创建的API中，点击`查看`
 
-![](https://secure2.wostatic.cn/static/r1Zo4rrPk9cgwJA8F6xoBi/image.png?auth_key=1763197445-tyn3RsF3aa82CFK6g2M24d-0-7da3f4593080f7ffa58259c2360e33cb)
+![](https://secure2.wostatic.cn/static/r1Zo4rrPk9cgwJA8F6xoBi/image.png?auth_key=1763207133-kqeStF7aK6TqjbmbT4WJHw-0-8d4d31e430a421a1104aa7ae633e2e57)
 
 
 
@@ -162,8 +162,10 @@ make
 
 ### 项目架构
 
+![](https://secure2.wostatic.cn/static/cSRaik1Fce7H49mthzmN2/drawio.png?auth_key=1763207133-2SKmRb67AEEJCNDq9qeJxg-0-63e3d451db6d3417103e62cf7805340c)
 
-![](https://www.wolai.com/w7zrdLerTnuM2q1Y7arfwp#6jFr8zpNZZCM3RvpBW9bdu)
+![](https://secure2.wostatic.cn/static/cSRaik1Fce7H49mthzmN2/drawio.png?auth_key=1763207514-ufsWVX9fkrMd7943oVKVg4-0-11deca186cf6e3bca405623401ab6aee)
+
 
 
 `websocket`与`order_manager`的数据更新采用**观察者模式**
@@ -312,3 +314,5 @@ okx交易所的规则是每隔25s，客户端要发送一个"`ping`"，服务器
 -熔断机制
 
 -可以做的品种不应该仅限永续合约
+
+[https://www.wolai.com/w7zrdLerTnuM2q1Y7arfwp#6jFr8zpNZZCM3RvpBW9bdu](https://www.wolai.com/w7zrdLerTnuM2q1Y7arfwp#6jFr8zpNZZCM3RvpBW9bdu)
