@@ -318,4 +318,3 @@ okx交易所的规则是每隔25s，客户端要发送一个"`ping`"，服务器
 
 -可以做的品种不应该仅限永续合约
 
-[https://www.wolai.com/w7zrdLerTnuM2q1Y7arfwp#6jFr8zpNZZCM3RvpBW9bdu](https://www.wolai.com/w7zrdLerTnuM2q1Y7arfwp#6jFr8zpNZZCM3RvpBW9bdu)
