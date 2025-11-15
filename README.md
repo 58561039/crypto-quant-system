@@ -163,7 +163,7 @@ make
 ### 项目架构
 
 
-![](https://secure2.wostatic.cn/static/cSRaik1Fce7H49mthzmN2/drawio.png?auth_key=1763199325-mioyZrTTgh6z88XW6pQ3HJ-0-7261d658a5d2ddf5c4cb0d4a7f1f372d)
+![](https://www.wolai.com/w7zrdLerTnuM2q1Y7arfwp#6jFr8zpNZZCM3RvpBW9bdu)
 
 
 `websocket`与`order_manager`的数据更新采用**观察者模式**
