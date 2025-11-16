@@ -245,7 +245,7 @@ timestamp + method + request_path + body
 
 如图所示：
 
-![](https://secure2.wostatic.cn/static/gWab8XZv6EBQEvZaAKL8u8/image.png?auth_key=1763201750-7fCpdJQUeTnXGqYQUvXnk8-0-4fb98a1d15f8b35e30a9eee83f71202a)
+![](https://secure2.wostatic.cn/static/gWab8XZv6EBQEvZaAKL8u8/image.png?auth_key=1763262991-gWgNcsUafexWZiZT5TPPGL-0-42a66c414d43cf167735419a78369db3)
 
 
 
