@@ -253,9 +253,15 @@ timestamp + method + request_path + body
 
 所有的币种，仓位默认的sz=1.0
 
-开仓量=sz*合约面值*开仓均价
+$$
+\text{开仓量} = \text{sz} \times \text{合约面值} \times \text{开仓均价}
+$$
 
-开仓成本=开仓量/杠杆大小
+
+$$
+\text{开仓成本} = \frac{\text{开仓量}}{\text{杠杆大小}}
+$$
+
 
 
 
