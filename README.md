@@ -22,7 +22,8 @@ git clone https://github.com/58561039/crypto-quant-system.git
 
 运行时：
 
-![](https://secure2.wostatic.cn/static/itJsxJLz9XhoV28mo9D8Up/image.png?auth_key=1763204551-833sztiY4kHx4V1EJRYAxb-0-84dd40b32f1e26f6fe2ddc324f15715f)
+
+<img width="772" height="617" alt="image (1)" src="https://github.com/user-attachments/assets/7b2aca65-c5ad-4b18-9d11-46882a1df54f" />
 
 ---
 
