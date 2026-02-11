@@ -29,7 +29,7 @@ git clone https://github.com/58561039/crypto-quant-system.git
 
 运行结束时：
 
-![](https://secure2.wostatic.cn/static/8M5zNvCt9FfK33g4esrQWc/image.png?auth_key=1763204600-mDNmTfFWsPXKqsWkB9Q1C-0-371a6450d64fc473811322ee0d9bb14c)
+<img width="648" height="511" alt="image (2)" src="https://github.com/user-attachments/assets/fc2b4233-f836-46e4-86f1-5f6fe8708f23" />
 
 ---
 
@@ -37,23 +37,27 @@ git clone https://github.com/58561039/crypto-quant-system.git
 
 运行结束时，项目内会多出.csv文件，每个品种放到各自的文件中
 
-![](https://secure2.wostatic.cn/static/mpSDG59EFzAKnY4JdadNi9/image.png?auth_key=1763204675-hb6Xvqj2tNx9W981sbKYWp-0-8a111a8b84bebe12b9f260738ae46438)
+<img width="1143" height="320" alt="image (3)" src="https://github.com/user-attachments/assets/5469fe9f-0d26-4f7b-b017-2064796bf761" />
+
 
 ---
 
 下面是针对.csv文件的统计，是作者自行将数据处理之后得到的结果
 
 
+<img width="794" height="452" alt="btc" src="https://github.com/user-attachments/assets/d17fdd1f-3d85-4260-972c-e270d16c37f0" />
 
-![](https://secure2.wostatic.cn/static/eufFzZha7zdnysrWBRZ9SR/btc.png?auth_key=1763206546-nqjNbErUJVSFYjTtvtnoRB-0-ee99595a81745a66a4154f125b8b3ac8)
 
----
-
-![](https://secure2.wostatic.cn/static/9tpXZ9tax3pcGiTmaDonFs/eth.png?auth_key=1763206551-wMQGVvx6vXc6qYKZ5gGGJA-0-80212333400f43b0fae9a6138ab848e4)
 
 ---
 
-![](https://secure2.wostatic.cn/static/3NzoqJJ55ZuZ7WSJHxChcf/sol.png?auth_key=1763206555-7iaenfgTXfABKJB9a3i4vU-0-940b4759a304a885ebcf4d60344e9697)
+<img width="794" height="452" alt="eth" src="https://github.com/user-attachments/assets/d20861a8-fc0d-415b-bb5b-4c9f31812677" />
+
+
+---
+
+<img width="794" height="452" alt="sol" src="https://github.com/user-attachments/assets/32b6a2d5-e436-4d0f-87ed-bfcc082d2e0e" />
+
 
 不出意外的全部处于亏损状态
 
@@ -110,7 +114,8 @@ bool isdemo = true;//isdemo=true时连接okx的模拟盘，isdemo=false时连接
 
 —在创建的API中，点击`查看`
 
-![](https://secure2.wostatic.cn/static/r1Zo4rrPk9cgwJA8F6xoBi/image.png?auth_key=1763207133-kqeStF7aK6TqjbmbT4WJHw-0-8d4d31e430a421a1104aa7ae633e2e57)
+
+<img width="1892" height="447" alt="image (4)" src="https://github.com/user-attachments/assets/aa197612-10bb-4ad9-95a9-8d1a486ee983" />
 
 
 
@@ -125,7 +130,8 @@ bool isdemo = true;//isdemo=true时连接okx的模拟盘，isdemo=false时连接
 
 
 
-![](https://secure2.wostatic.cn/static/jAA5B3oa8aVd666orsFdrn/image.png?auth_key=1763207942-fnC7KeSPLjEMfQiRC63ukj-0-17fdf99c3d7cc18e6d738b9b38490444)
+<img width="670" height="702" alt="image (5)" src="https://github.com/user-attachments/assets/43c457a5-18d4-4740-b78d-167d8f8901fa" />
+
 
 
 
@@ -167,7 +173,8 @@ make
 
 ### 项目架构
 
-![](https://secure2.wostatic.cn/static/cSRaik1Fce7H49mthzmN2/drawio.png?auth_key=1763207133-2SKmRb67AEEJCNDq9qeJxg-0-63e3d451db6d3417103e62cf7805340c)
+<img width="1125" height="968" alt="drawio (1)" src="https://github.com/user-attachments/assets/8e1b0142-8ea9-4ecc-9cb8-b063244380b5" />
+
 
 
 
@@ -246,7 +253,8 @@ timestamp + method + request_path + body
 
 如图所示：
 
-![](https://secure2.wostatic.cn/static/gWab8XZv6EBQEvZaAKL8u8/image.png?auth_key=1763262991-gWgNcsUafexWZiZT5TPPGL-0-42a66c414d43cf167735419a78369db3)
+<img width="423" height="619" alt="image (6)" src="https://github.com/user-attachments/assets/d3993164-e5d2-4d67-80d3-8d01bf3cec8b" />
+
 
 
 
